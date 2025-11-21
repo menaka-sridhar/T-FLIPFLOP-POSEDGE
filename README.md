@@ -36,6 +36,7 @@ From the above characteristic table, we can directly write the next state equati
 
 
 Developed by:Menaka M S
+
 RegisterNumber:25015729
 */
 
