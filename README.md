@@ -1,4 +1,4 @@
-# T-FLIPFLOP-POSEDGE
+<img width="1692" height="203" alt="Screenshot 2025-11-21 211135" src="https://github.com/user-attachments/assets/29bfd808-8d18-4203-9d6e-fd200cb9fdc5" /># T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
@@ -48,7 +48,7 @@ RegisterNumber:25015729
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-To implement  T flipflop using verilog and validating their functionality using their functional tables
+<img width="1692" height="203" alt="Screenshot 2025-11-21 211135" src="https://github.com/user-attachments/assets/9283861f-1e26-43f6-9b57-2353de4bd56d" />
 
 
 **RESULTS**
