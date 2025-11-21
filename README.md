@@ -52,4 +52,5 @@ RegisterNumber:25015729
 
 
 **RESULTS**
+
 Thus,so implemented T flipflop using verilog and validated their functionality using their functional tables
